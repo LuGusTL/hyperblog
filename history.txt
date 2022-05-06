@@ -1,1 +1,6 @@
-Esta es la historia de Luis Torres tiene 36 y nacio en Mexico.
+Esta es la historia de Luis Torres
+
+Tiene 37 y nacio en Mexico.
+Vive en el planeta tierra del sistema solar en la via lactea.
+
+...
